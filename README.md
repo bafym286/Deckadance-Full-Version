@@ -234,3 +234,6 @@ This repository serves as the official landing page for Deckadance. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Deckadance today!**
+
+---
+**Last updated:** 2026-09-07 21:56:26 UTC
